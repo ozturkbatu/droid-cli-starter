@@ -72,6 +72,6 @@ Lifecycle events configured in .factory/settings.json to ensure code quality:
 - Document Decisions: Use the # prefix to save important architecture choices to .factory/memories.md.
 
 # Documentation References
-- [Factory Documentation]([url](https://docs.factory.ai/))
-- [GitHub Integration Guide]([url](https://www.google.com/search?q=./.factory/github-integration-guide.md))
-- [Hooks Reference]([url](https://www.google.com/search?q=./.factory/hooks/README.md))
+- [Factory Documentation](https://docs.factory.ai/)
+- [GitHub Integration Guide](https://docs.factory.ai/enterprise/github-integration-security)
+- [Hooks Reference](https://docs.factory.ai/cli/configuration/hooks-guide)
